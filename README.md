@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mahmoud+Tarek+Mahmoud+(mTm);Android+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mahmoud+Tarek+Mahmoud+(mTm);Android+Developer;" alt="Typing SVG" />
 </h1>
 
 ---
@@ -44,7 +44,6 @@
 
 ---
 
-### 👀 Profile Visitor Counter
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MahmoodTarek&label=Profile%20Views&color=0e75b6&style=flat" alt="MahmoodTarek" />
 </div>
