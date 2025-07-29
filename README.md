@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mahmoud+Tarek+Mahmoud+(mTm);Android+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0E75B6,F39C12,E74C3C&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Mahmoud+Tarek+Mahmoud+(mTm);Android+Developer;" alt="Typing SVG" />
 </h1>
+
 
 ---
 
