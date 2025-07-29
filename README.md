@@ -1,13 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mahmoud+Tarek+(mTm);Android+Developer;Passionate+about+Clean+Architecture;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mahmoud+Tarek+Mahmoud+(mTm);Android+Developer;" alt="Typing SVG" />
 </h1>
 
 ---
 
 ### 👨‍💻 About Me
 - 💡 Android Developer passionate about creating clean & scalable apps  
-- 🔭 Currently mastering **Jetpack Compose** & **MVI Architecture**  
-- 🛠 Skilled in **Clean Architecture**, **Dependency Injection (Hilt / Koin)**, and **Unit Testing with JUnit**  
 - 🎯 Goal: Build impactful mobile apps and contribute to open-source Android projects  
 - 📫 Reach me at: **dev.mahmoudtarek@gmail.com**
 
@@ -32,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="junit logo"/>
 </div>
 
-**Other Skills:** MVI • Clean Architecture • Hilt • Koin • ViewModel • Room
-
 ---
 
 ### 🌐 Connect with Me
@@ -56,7 +52,3 @@
 ---
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
