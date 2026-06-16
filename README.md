@@ -18,7 +18,7 @@ My journey started with Android development, which helped me build a solid under
 * 📫 Reach me at: **[dev.mahmoudtarek@gmail.com](mailto:dev.mahmoudtarek@gmail.com)**
 
 ---
-
+ 
 ### 🛠 Tech Stack
 
 <div align="center">
@@ -66,10 +66,4 @@ My journey started with Android development, which helped me build a solid under
   <a href="mailto:dev.mahmoudtarek@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <i>Building mobile applications, one widget at a time.</i>
 </div>
