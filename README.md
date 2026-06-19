@@ -46,12 +46,21 @@ My journey started with Android development, which helped me build a solid under
 * SOLID Principles
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoodTarek&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MahmoodTarek&theme=tokyonight" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MahmoodTarek&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    height="170"
+    alt="GitHub Stats"
+  />
+
+<img
+ src="https://streak-stats.demolab.com?user=MahmoodTarek&theme=tokyonight"
+ height="170"
+ alt="GitHub Streak"
+/>
+
 </div>
 
 ---
