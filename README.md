@@ -9,8 +9,6 @@
 Flutter Developer
 </p>
 
----
-
 ## About
 
 Junior Flutter Developer focused on building scalable, maintainable, and user-friendly mobile applications.
