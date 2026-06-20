@@ -1,9 +1,13 @@
-<h1 align="center">Mahmoud Tarek Mahmoud</h1>
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=3000&color=0E75B6&center=true&vCenter=true&repeat=true&width=750&lines=Mahmoud+Tarek+Mahmoud+(mTm)"
+    alt="Mahmoud Tarek Mahmoud"
+  />
+</h1>
 
 <p align="center">
-Junior Flutter Developer • Mobile Application Developer
+Flutter Developer
 </p>
-
 ---
 
 ## About
