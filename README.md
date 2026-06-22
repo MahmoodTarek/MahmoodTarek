@@ -67,11 +67,10 @@ My background in Android development helped me build a solid understanding of so
     alt="GitHub Stats"
   />
 
-  <img
-    src="https://streak-stats.demolab.com?user=MahmoodTarek&theme=tokyonight"
-    height="170"
-    alt="GitHub Streak"
-  />
+ <img
+ src="https://streak-stats.demolab.com?user=MahmoodTarek&theme=tokyonight&cache_seconds=1800"
+ height="170"
+/>
 </div>
 
 ---
